@@ -4,4 +4,4 @@ Binary Tree realization on C programming language as a final project for semeste
 
 
 
-#made by Alexander Soldatov ИУСБД-01-23
+# made by Alexander Soldatov ИУСБД-01-23
