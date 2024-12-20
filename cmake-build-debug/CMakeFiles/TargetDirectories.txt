@@ -1,0 +1,3 @@
+C:/Users/sasha/CLionProjects/Tree_Realsation/cmake-build-debug/CMakeFiles/Tree_Realsation.dir
+C:/Users/sasha/CLionProjects/Tree_Realsation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sasha/CLionProjects/Tree_Realsation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
